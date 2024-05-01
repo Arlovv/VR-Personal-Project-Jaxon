@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "VR Project (Jaxon).sln"
+    "dotnet.defaultSolution": "VR-Personal-Project-Jaxon.sln"
 }
